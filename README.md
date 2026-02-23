@@ -97,9 +97,12 @@ The dashboard layout follows an executive reporting structure:
 
 The design prioritizes clarity, business relevance, and ease of interpretation for non-technical stakeholders.
 
-## 4. Dashboard Screenshots
+## 4. Dashboard Screenshot 
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/969fea97-d436-4664-aa78-6165ab0f63d3" />
 
+## 6. Live Dashboard
+
+[View Interactive Dashboard](https://lookerstudio.google.com/reporting/c281fccf-0bd6-456b-b4f1-e1b01043a4a0)
 
 ## 5. Key Insights
 
